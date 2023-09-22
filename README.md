@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<!-- <iframe class="imgur-embed" width="100%" height="980" frameborder="0" src="https://i.imgur.com/0BpKK1S.gifv#embed"></iframe> -->
-<img src='https://i.imgur.com/0BpKK1S.gif' alt='Video walkthrough'>Video Walkthough </img>
+<a href='https://i.imgur.com/0BpKK1S.gifv'>Video Walkthough </img>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
